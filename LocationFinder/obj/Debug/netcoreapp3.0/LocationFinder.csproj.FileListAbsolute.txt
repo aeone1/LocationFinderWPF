@@ -1,0 +1,11 @@
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\bin\Debug\netcoreapp3.0\LocationFinder.exe
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\LocationFinder.csprojAssemblyReference.cache
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\LocationFinder_MarkupCompile.cache
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\LocationFinder_MarkupCompile.lref
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\LocationFinder.g.resources
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\LocationFinder.AssemblyInfoInputs.cache
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\LocationFinder.AssemblyInfo.cs
+C:\Users\Peter\Source\Repos\LocationFinder\LocationFinder\obj\Debug\netcoreapp3.0\LocationFinder.pdb
